@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d90ba9b-0e3e-4aca-bce1-7c9282999dbd": {
+      "ProjectGuid": "6d90ba9b-0e3e-4aca-bce1-7c9282999dbd",
+      "DisplayName": "HRMSEntitiesLib",
+      "ColorIndex": 0
+    },
+    "4216b29b-932c-41c7-a3e9-284d6f96cb6a": {
+      "ProjectGuid": "4216b29b-932c-41c7-a3e9-284d6f96cb6a",
+      "DisplayName": "HRMSDataAccessLib",
+      "ColorIndex": 1
+    },
+    "4df8a37e-a8a3-48d8-9550-a4401037182c": {
+      "ProjectGuid": "4df8a37e-a8a3-48d8-9550-a4401037182c",
+      "DisplayName": "HRMSBusinessLib",
+      "ColorIndex": 2
+    },
+    "4f2bf6d7-310b-4183-ad3f-0529af6fd172": {
+      "ProjectGuid": "4f2bf6d7-310b-4183-ad3f-0529af6fd172",
+      "DisplayName": "HRMSConsoleUIApp",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

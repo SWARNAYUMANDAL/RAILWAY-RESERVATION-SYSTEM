@@ -1,0 +1,9 @@
+F:\CapGeminiDotnet\HRMSADOPrjs\HRMSDataAccessLib\bin\Debug\HRMSDataAccessLib.dll
+F:\CapGeminiDotnet\HRMSADOPrjs\HRMSDataAccessLib\bin\Debug\HRMSDataAccessLib.pdb
+F:\CapGeminiDotnet\HRMSADOPrjs\HRMSDataAccessLib\bin\Debug\HRMSEntitiesLib.dll
+F:\CapGeminiDotnet\HRMSADOPrjs\HRMSDataAccessLib\bin\Debug\HRMSEntitiesLib.pdb
+F:\CapGeminiDotnet\HRMSADOPrjs\HRMSDataAccessLib\obj\Debug\HRMSDataAccessLib.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\HRMSADOPrjs\HRMSDataAccessLib\obj\Debug\HRMSDataAccessLib.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\HRMSADOPrjs\HRMSDataAccessLib\obj\Debug\HRMSDataAccessLib.csproj.CopyComplete
+F:\CapGeminiDotnet\HRMSADOPrjs\HRMSDataAccessLib\obj\Debug\HRMSDataAccessLib.dll
+F:\CapGeminiDotnet\HRMSADOPrjs\HRMSDataAccessLib\obj\Debug\HRMSDataAccessLib.pdb
