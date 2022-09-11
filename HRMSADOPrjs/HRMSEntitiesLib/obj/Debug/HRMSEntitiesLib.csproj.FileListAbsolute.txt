@@ -1,6 +1,0 @@
-F:\CapGeminiDotnet\HRMSADOPrjs\HRMSEntitiesLib\bin\Debug\HRMSEntitiesLib.dll
-F:\CapGeminiDotnet\HRMSADOPrjs\HRMSEntitiesLib\bin\Debug\HRMSEntitiesLib.pdb
-F:\CapGeminiDotnet\HRMSADOPrjs\HRMSEntitiesLib\obj\Debug\HRMSEntitiesLib.csproj.AssemblyReference.cache
-F:\CapGeminiDotnet\HRMSADOPrjs\HRMSEntitiesLib\obj\Debug\HRMSEntitiesLib.csproj.CoreCompileInputs.cache
-F:\CapGeminiDotnet\HRMSADOPrjs\HRMSEntitiesLib\obj\Debug\HRMSEntitiesLib.dll
-F:\CapGeminiDotnet\HRMSADOPrjs\HRMSEntitiesLib\obj\Debug\HRMSEntitiesLib.pdb
